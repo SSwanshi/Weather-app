@@ -169,4 +169,9 @@ body {
   .footer{
     margin-top: auto;
   }
+
+  .data{
+    margin-bottom: 70px;
+    margin-top:40px;
+  }
 }
